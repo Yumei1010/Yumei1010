@@ -41,6 +41,16 @@
 ### 📊 Most Used Languages
 
 <!--START_LANGS-->
+### 📊 Most Used Languages
+
+| Language | Bytes |
+| --- | --- |
+| C# | 418.0 KB |
+| GDScript | 88.5 KB |
+| Python | 51.1 KB |
+| GDShader | 30.0 KB |
+| Shell | 8.9 KB |
+| PowerShell | 8.7 KB |
 <!--END_LANGS-->
 
 ### ⏱️ WakaTime
