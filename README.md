@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Yumei&fontSize=60&fontAlignY=35&desc=Indie%20Game%20Dev%20|%20Backend%20Engineer&descAlignY=55&descSize=16&animation=fadeIn" />
+  <img src="header-bg.jpeg" width="100%" />
 </p>
 
 <p align="center">
+  <b>Indie Game Dev | Backend Engineer</b><br/>
   Java / Spring Boot / Python / SQL / C# / Godot
 </p>
 
@@ -38,5 +39,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" />
+  <i>Thanks for stopping by 😊</i>
 </p>
