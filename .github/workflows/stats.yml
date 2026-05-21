@@ -17,7 +17,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          echo "### 📊 Most Used Languages" > lang-stats.md
+          echo "" > lang-stats.md
           echo "" >> lang-stats.md
           echo "| Language | Bytes |" >> lang-stats.md
           echo "| --- | --- |" >> lang-stats.md
