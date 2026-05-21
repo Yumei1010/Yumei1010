@@ -4,24 +4,23 @@
 </h2>
 
 <p>
-  独立开发者，专注 <b>Godot 游戏开发</b> 与 <b>后端架构</b>。<br/>
-  Java / Spring Boot / Python / SQL 全栈实践者，热爱用代码构建有趣的东西。
+  Indie developer focused on <b>Godot game development</b> and <b>backend architecture</b>.<br/>
+  Java / Spring Boot / Python / SQL — building interesting things with code.
 </p>
 
 ---
 
-## 🚀 About Me | 关于我
+## 🚀 About Me
 
-* 🎮 **Godot (C#)** 游戏开发主力
-* ☕ **Java / Spring Boot** 后端开发
-* 🐍 **Python** 脚本与工具链
-* 🗄️ **SQL** 数据建模与查询优化
-* 🧱 GFramework CQRS/ECS 框架重度实践者
-* 📦 热衷打造可复用的模板与工具
+* 🎮 Godot (C#) game developer
+* ☕ Java / Spring Boot backend
+* 🐍 Python scripting & tooling
+* 🗄️ SQL data modeling
+* 📦 Enjoy crafting reusable templates & tools
 
 ---
 
-## 🛠️ Tech Stack | 技术栈
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -38,31 +37,6 @@
 
 ---
 
-## 📈 GitHub Stats | 统计
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yumei1010&show_icons=true&theme=default&hide_border=true&locale=cn" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumei1010&layout=compact&hide_border=true&locale=cn" />
-</p>
-
----
-
-## 📌 Pinned Projects | 精选项目
-
-<p>
-  <a href="https://github.com/Yumei1010/Twenty-four">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yumei1010&repo=Twenty-four&theme=default" />
-  </a>
-  <a href="https://github.com/Yumei1010/My-GFramework-Godot-Template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yumei1010&repo=My-GFramework-Godot-Template&theme=default" />
-  </a>
-</p>
-
----
-
 <p align="center">
-  <i>Thanks for stopping by. 感谢你的浏览 😊</i>
+  <i>Thanks for stopping by 😊</i>
 </p>
