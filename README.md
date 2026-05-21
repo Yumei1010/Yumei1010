@@ -41,7 +41,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumei1010&layout=compact&hide_border=true&langs_count=8" />
+  <img src="top-langs.svg" />
 </p>
 
 ### ⏱️ WakaTime
