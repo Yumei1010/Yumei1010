@@ -9,27 +9,45 @@ permissions:
   contents: write
 
 jobs:
-  metrics:
+  languages:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: Yumei1010
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
-          plugin_languages: yes
-          plugin_languages_details: bytes-size
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_skipped: Yumei1010
+      - name: Generate language stats
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "### 📊 Most Used Languages" > lang-stats.md
+          echo "" >> lang-stats.md
+          echo "| Language | Bytes |" >> lang-stats.md
+          echo "| --- | --- |" >> lang-stats.md
+
+          gh api "users/Yumei1010/repos?per_page=100&type=owner" --jq '
+            .[].languages_url
+          ' | while read url; do
+            gh api "$url" --jq "to_entries[] | \"\(.key)\t\(.value)\""
+          done | awk -F'\t' '
+            { langs[$1] += $2 }
+            END {
+              for (lang in langs) print langs[lang] "\t" lang
+            }
+          ' | sort -rn | head -8 | while read bytes lang; do
+            kb=$(echo "scale=1; $bytes / 1024" | bc)
+            echo "| $lang | ${kb} KB |" >> lang-stats.md
+          done
+
+      - name: Update README
+        run: |
+          START_MARKER='<!--START_LANGS-->'
+          END_MARKER='<!--END_LANGS-->'
+
+          sed -i "/$START_MARKER/,/$END_MARKER/{//!d}" README.md
+          sed -i "/$START_MARKER/r lang-stats.md" README.md
+
       - name: Commit & push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add metrics.svg
-          git diff --staged --quiet || git commit -m "chore: update metrics"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update language stats"
           git push

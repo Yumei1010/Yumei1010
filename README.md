@@ -40,20 +40,12 @@
 
 ### 📊 Most Used Languages
 
-<p align="center">
-  <img src="metrics.svg" />
-</p>
+<!--START_LANGS-->
+<!--END_LANGS-->
 
 ### ⏱️ WakaTime
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 13 May 2026 - To: 20 May 2026
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ---
