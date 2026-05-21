@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-独立游戏开发者，专注 Godot + C# + GFramework 技术栈。
+独立游戏开发者，全栈工程师。
 
 ---
 
 **🧰 技术栈**
 
-![Godot](https://img.shields.io/badge/Godot-4.6-478cbf?logo=godot-engine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-.NET%2010-512bd4?logo=dotnet&logoColor=white)
-![GFramework](https://img.shields.io/badge/GFramework-CQRS%2FECS-8a2be2)
+| 游戏开发 | 后端 & 数据 |
+|---|---|
+| ![Godot](https://img.shields.io/badge/Godot-4.6-478cbf?logo=godot-engine&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-.NET%2010-512bd4?logo=dotnet&logoColor=white) | ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) |
+| ![GFramework](https://img.shields.io/badge/GFramework-CQRS%2FECS-8a2be2) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) |
 
 ---
 
