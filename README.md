@@ -41,7 +41,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="top-langs.svg" />
+  <img src="metrics.svg" />
 </p>
 
 ### ⏱️ WakaTime
