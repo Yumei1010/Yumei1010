@@ -1,16 +1,18 @@
-<h2>
-  👋 Hi there, I'm Yumei
-  <img align="right" src="https://komarev.com/ghpvc/?username=Yumei1010&label=Profile%20views&abbreviated=true&color=0e75b6&style=flat" />
-</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Yumei&fontSize=60&fontAlignY=35&desc=Indie%20Game%20Dev%20|%20Backend%20Engineer&descAlignY=55&descSize=16&animation=fadeIn" />
+</p>
 
-<p>
-  Indie developer focused on <b>Godot game development</b> and <b>backend architecture</b>.<br/>
-  Java / Spring Boot / Python / SQL — building interesting things with code.
+<p align="center">
+  Java / Spring Boot / Python / SQL / C# / Godot
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yumei1010&label=Profile%20views&abbreviated=true&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 * 🎮 Godot (C#) game developer
 * ☕ Java / Spring Boot backend
@@ -18,9 +20,7 @@
 * 🗄️ SQL data modeling
 * 📦 Enjoy crafting reusable templates & tools
 
----
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by 😊</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" />
 </p>
