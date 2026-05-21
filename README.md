@@ -41,7 +41,7 @@
 ### 📊 Most Used Languages
 
 <!--START_LANGS-->
-### 📊 Most Used Languages
+
 
 | Language | Bytes |
 | --- | --- |
