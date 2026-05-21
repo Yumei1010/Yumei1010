@@ -44,11 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumei1010&layout=compact&hide_border=true&langs_count=8" />
 </p>
 
-### ⏱️ WakaTime Stats
+### ⏱️ WakaTime
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yumei1010&langs_count=8&layout=compact&hide_border=true" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
