@@ -45,7 +45,7 @@
 
 | Language | Bytes |
 | --- | --- |
-| C# | 691.5 KB |
+| C# | 701.7 KB |
 | GDScript | 88.8 KB |
 | Python | 51.1 KB |
 | GDShader | 35.5 KB |
