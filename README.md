@@ -45,10 +45,10 @@
 
 | Language | Bytes |
 | --- | --- |
-| C# | 701.7 KB |
-| GDScript | 88.8 KB |
+| C# | 418.0 KB |
+| GDScript | 88.3 KB |
 | Python | 51.1 KB |
-| GDShader | 35.5 KB |
+| GDShader | 30.0 KB |
 | Shell | 8.9 KB |
 | PowerShell | 8.7 KB |
 <!--END_LANGS-->
