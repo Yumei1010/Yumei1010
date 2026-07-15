@@ -45,9 +45,9 @@
 
 | Language | Bytes |
 | --- | --- |
-| C# | 310.7 KB |
+| C# | 379.9 KB |
 | GDScript | 46.3 KB |
-| GDShader | 17.3 KB |
+| GDShader | 20.7 KB |
 <!--END_LANGS-->
 
 ### ⏱️ WakaTime
