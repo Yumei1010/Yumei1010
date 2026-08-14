@@ -46,8 +46,8 @@
 | Language | Bytes |
 | --- | --- |
 | C# | 301.5 KB |
+| TypeScript | 68.4 KB |
 | GDScript | 46.3 KB |
-| TypeScript | 45.5 KB |
 | GDShader | 13.7 KB |
 | PowerShell | .9 KB |
 | Shell | .7 KB |
