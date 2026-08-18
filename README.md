@@ -46,11 +46,11 @@
 | Language | Bytes |
 | --- | --- |
 | C# | 301.5 KB |
-| TypeScript | 68.4 KB |
+| TypeScript | 121.8 KB |
 | GDScript | 46.3 KB |
 | GDShader | 13.7 KB |
 | PowerShell | .9 KB |
-| Shell | .7 KB |
+| Shell | .8 KB |
 | JavaScript | .3 KB |
 <!--END_LANGS-->
 
