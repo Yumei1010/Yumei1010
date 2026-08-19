@@ -49,8 +49,8 @@
 | TypeScript | 121.8 KB |
 | GDScript | 46.3 KB |
 | GDShader | 13.7 KB |
-| PowerShell | .9 KB |
-| Shell | .8 KB |
+| PowerShell | 3.5 KB |
+| Shell | 3.3 KB |
 | JavaScript | .3 KB |
 <!--END_LANGS-->
 
