@@ -45,14 +45,14 @@
 
 | Language | Bytes |
 | --- | --- |
-| C# | 902.9 KB |
+| C# | 939.7 KB |
 | JavaScript | 711.2 KB |
 | TypeScript | 404.2 KB |
 | Astro | 284.5 KB |
 | Svelte | 106.3 KB |
 | GDScript | 95.5 KB |
 | CSS | 83.8 KB |
-| GDShader | 24.7 KB |
+| Stylus | 23.5 KB |
 <!--END_LANGS-->
 
 ### ⏱️ WakaTime
