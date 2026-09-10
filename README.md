@@ -45,7 +45,7 @@
 
 | Language | Bytes |
 | --- | --- |
-| C# | 939.7 KB |
+| C# | 953.3 KB |
 | JavaScript | 711.2 KB |
 | TypeScript | 404.2 KB |
 | Astro | 284.5 KB |
