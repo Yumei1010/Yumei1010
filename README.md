@@ -45,13 +45,13 @@
 
 | Language | Bytes |
 | --- | --- |
-| C# | 1062.2 KB |
+| C# | 772.8 KB |
 | JavaScript | 737.2 KB |
 | TypeScript | 381.8 KB |
 | Astro | 284.5 KB |
 | Svelte | 106.3 KB |
-| GDScript | 95.5 KB |
 | CSS | 83.8 KB |
+| GDScript | 46.3 KB |
 | Stylus | 23.5 KB |
 <!--END_LANGS-->
 
