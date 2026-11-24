@@ -47,7 +47,7 @@
 | --- | --- |
 | C# | 992.9 KB |
 | JavaScript | 743.0 KB |
-| TypeScript | 355.1 KB |
+| TypeScript | 376.2 KB |
 | Astro | 284.5 KB |
 | Svelte | 106.3 KB |
 | CSS | 83.8 KB |
